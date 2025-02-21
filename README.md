@@ -55,7 +55,7 @@ Este projeto tem como objetivo analisar a qualidade de um conjunto de dados cont
 
 ## 📊 **Demonstração da Query SQL**
 ### 📌 O que a query faz?
-- Ajusta e paronida os dados.
+- Limpeza e padronização dos dados.
 
 ---
 
@@ -67,12 +67,12 @@ Este projeto tem como objetivo analisar a qualidade de um conjunto de dados cont
 ---
 
 ## 🚀 Próximas Etapas
-- Limpeza e padronização dos dados.
 - Análise de padrões de comorbidade.
 - Identificação de outliers em variáveis críticas (altura, peso, pressão arterial).
 - Desenvolvimento de métricas para medir a qualidade e atualização dos dados.
-
+- Aplicar um controle de qualidade dos dados.
+  
 ---
 
-🔗 **Autor:** Jessica Cristina Teles Rodrigues  
+🔗 **Autor:** Jessica Cristina Teles   
 📅 **Data:** Fevereiro de 2025  
