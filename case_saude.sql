@@ -180,7 +180,7 @@ WITH pacientes AS (
         COALESCE(pressao_sistolica, 0) AS pressao_sistolica,
         COALESCE(pressao_diastolica, 0) AS pressao_diastolica,
         n_atendimentos_hospital,
-        DATE(updated_at),
+        DATE(updated_at) as updated_at,
         tipo
 
     FROM `causal-guide-451216-q7.saude.tabela_saude`
